@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/leksster/phx_playground.svg?branch=master)](https://travis-ci.com/leksster/nextjs6-graphql-client-tutorial)
+
 # PhxPlayground
 
 To start your Phoenix server:
